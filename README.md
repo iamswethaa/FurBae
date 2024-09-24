@@ -27,4 +27,4 @@ Figma
 
 ## Prototype
 
-A fully interactive prototype of the FurBae app is available to demonstrate the design and flow of the application. This prototype showcases the app's functionality and highlights how users can buy and sell pets, make payments, and engage with the community. [View Prototype Here]([https://www.figma.com/proto/your-prototype-link](https://www.figma.com/proto/KcfNq0LhSD2WsUQzMouYyc/FURBAE?page-id=7%3A2&type=design&node-id=117-262&viewport=1088%2C785%2C0.19&t=jWuANSceOk2xt5hI-1&scaling=scale-down&starting-point-node-id=117%3A262))
+A fully interactive prototype of the FurBae app is available to demonstrate the design and flow of the application. This prototype showcases the app's functionality and highlights how users can buy and sell pets, make payments, and engage with the community. [View Prototype Here](https://www.figma.com/proto/KcfNq0LhSD2WsUQzMouYyc/FURBAE?page-id=7%3A2&type=design&node-id=117-262&viewport=1088%2C785%2C0.19&t=jWuANSceOk2xt5hI-1&scaling=scale-down&starting-point-node-id=117%3A262)
