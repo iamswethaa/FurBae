@@ -7,6 +7,7 @@ FurBae is an app designed for pet lovers to buy and sell pets within local regio
 - **Buy and Sell Pets**: Discover pets available for sale or adoption in your area.
 - **Order Booking**: Seamlessly book orders for pets and services with easy-to-use booking options.
 - **Advance Payment**: Make secure advance payments when placing orders.
+- **Chats**: Chat with other pet parents.
 - **Community**: Engage with a community of pet lovers, share experiences, and connect with others who share your passion for animals.
 
 ## Design
